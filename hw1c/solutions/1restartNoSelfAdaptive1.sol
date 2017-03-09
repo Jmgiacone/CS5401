@@ -1,0 +1,1 @@
+./solvers/minisat/minisat -cpu-lim=5 -no-luby -rnd-freq=0 -var-decay=0.9999999999 -cla-decay=0.227029863469498 -rinc=9.77036841240013e+307 -gc-frac=1.47525850822088e+308 -rfirst=852781815 -ccmin-mode=1 -phase-saving=2

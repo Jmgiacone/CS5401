@@ -1,0 +1,91 @@
+Test Result Log
+=== Config ===
+Started at: Mon Oct 24 08:20:14 2016
+CNF Training Set: datasets/set1/training/
+CNF Test Set: datasets/set1/testing/
+Solution File: solutions/3restart1.sol
+Training Log File: logs/training3Restart1.log
+Test Log File: logs/test3Restart1.log
+Pareto Front Output File: logs/3restart1Pareto.log
+Loaded individuals from file: false
+Number of Runs: 5
+Number of evals per run: 500
+Self-adaptive mutation: false
+Seed: 1477315214057964
+r-restart r value: 3
+Population Size: 25
+Offspring per generation: 10
+Mutation Chance: 0.111111
+Luby Initialization: 0
+Rnd-Freq Initialization: 0
+Var-Decay Initialization: 0
+Cla-Decay Initialization: 0
+Rinc Initialization: 0
+GC-Frac Initialization: 0
+RFirst Initialization: 0
+CCMIN-Mode Initialization: 0
+Phase-Saving Initialization: 0
+Parent Selection: 2
+Parent Selection Tournament Size: 10
+Survival Strategy: 0
+Survival Selection: 1
+Survival Selection Tournament Size: 10
+Terminate on max evals: true
+Terminate on stagnant non-dominated pareto front: false
+=== End Config ===
+Run #1
+75	97.37	-13660	2.21025e+07
+125	98.23	-13660	2.28227e+07
+175	98.23	-13660	2.28227e+07
+225	98.23	-13660	2.28227e+07
+275	98.23	-13660	2.28227e+07
+325	98.23	-13660	2.28227e+07
+375	98.23	-13660	2.28227e+07
+425	98.25	-13660	2.28227e+07
+475	98.25	-13660	2.28227e+07
+
+Run #2
+75	98.25	-13660	3.25387e+07
+125	98.25	-13660	3.25387e+07
+175	98.25	-13660	3.25387e+07
+225	98.25	-13660	3.25387e+07
+275	98.25	-13660	3.25387e+07
+325	98.25	-13660	3.25387e+07
+375	98.25	-13660	3.25387e+07
+425	98.25	-13660	3.25387e+07
+475	98.25	-13660	3.25387e+07
+
+Run #3
+75	98.25	-13660	3.25387e+07
+125	98.25	-13660	3.30558e+07
+175	98.25	-13660	3.39238e+07
+225	98.25	-13660	3.39238e+07
+275	98.25	-13660	3.40842e+07
+325	98.25	-13660	3.40842e+07
+375	98.25	-13660	3.48252e+07
+425	98.25	-13660	3.48252e+07
+475	98.25	-13660	3.48252e+07
+
+Run #4
+75	98.43	-13660	6.09625e+07
+125	98.43	-13660	6.38168e+07
+175	98.43	-13660	6.38168e+07
+225	98.43	-13660	6.38168e+07
+275	98.43	-13660	6.38168e+07
+325	98.43	-13660	6.38168e+07
+375	98.43	-13660	6.61041e+07
+425	98.45	-13660	6.74273e+07
+475	98.45	-13660	6.74273e+07
+
+Run #5
+75	98.45	-13644	6.74273e+07
+125	98.45	-13644	6.74273e+07
+175	98.45	-13644	6.74273e+07
+225	98.45	-13644	6.74273e+07
+275	98.45	-13644	6.74273e+07
+325	98.45	-13644	6.74273e+07
+375	98.45	-13644	6.74273e+07
+425	98.45	-13644	6.74273e+07
+475	98.45	-13644	6.74273e+07
+
+Ended at Mon Oct 24 10:37:58 2016

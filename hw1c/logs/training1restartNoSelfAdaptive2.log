@@ -1,0 +1,115 @@
+Training Result Log
+=== Config ===
+Started at: Sun Oct  9 17:06:10 2016
+CNF Training Set: datasets/set2/training/
+CNF Test Set: datasets/set2/testing/
+Solution File: solutions/1restartNoSelfAdaptive2.sol
+Training Log File: logs/training1restartNoSelfAdaptive2.log
+Test Log File: logs/test1restartNoSelfAdaptive2.log
+Loaded individuals from file: false
+Number of Runs: 5
+Number of evals per run: 500
+Self-adaptive mutation: false
+Seed: 1476050770655496
+r-restart r value: 1
+Population Size: 50
+Offspring per generation: 25
+Mutation Chance: 0.111111
+Luby Initialization: 0
+Rnd-Freq Initialization: 0
+Var-Decay Initialization: 0
+Cla-Decay Initialization: 0
+Rinc Initialization: 0
+GC-Frac Initialization: 0
+RFirst Initialization: 0
+CCMIN-Mode Initialization: 0
+Phase-Saving Initialization: 0
+Parent Selection: 0
+Parent Selection Tournament Size: 5
+Survival Strategy: 0
+Survival Selection: 1
+Survival Selection Tournament Size: 10
+Terminate on max evals: true
+Terminate on stagnant average fitness: false
+Terminate on stagnant best fitness: true
+=== End Config ===
+Run #1
+50	98.3151	99.3695
+75	98.7391	99.3695
+100	99.0327	99.3695
+125	99.1702	99.3734
+150	99.2221	99.3734
+175	99.2531	99.3734
+200	99.2897	99.4418
+225	99.3198	99.4838
+250	99.3442	99.4838
+275	99.3676	99.4838
+300	99.3825	99.4838
+374	98.7739	99.4838
+448	98.8214	99.4838
+522	98.7094	99.4844
+
+Run #2
+50	98.2872	99.2478
+75	98.6942	99.3093
+100	98.9718	99.4379
+125	99.0991	99.4379
+150	99.1566	99.4379
+175	99.2043	99.4379
+249	98.8485	99.4379
+323	98.8485	99.4379
+397	98.8119	99.4379
+471	98.9141	99.4379
+545	98.7268	99.4379
+
+Run #3
+50	98.3198	99.266
+75	98.7111	99.3267
+100	98.9794	99.3267
+125	99.1108	99.3846
+150	99.1829	99.3846
+175	99.239	99.3846
+200	99.269	99.3914
+225	99.2953	99.3914
+250	99.3206	99.4115
+275	99.351	99.4356
+300	99.3627	99.4356
+325	99.3756	99.4431
+350	99.3931	99.4596
+375	99.402	99.4643
+400	99.4164	99.5207
+425	99.4263	99.5207
+450	99.4373	99.5207
+475	99.4439	99.5207
+549	98.9257	99.5207
+
+Run #4
+50	98.3685	99.3094
+75	98.8353	99.4261
+100	99.023	99.4261
+125	99.169	99.4285
+150	99.2562	99.4285
+175	99.3208	99.4758
+200	99.3549	99.4758
+225	99.3835	99.4758
+250	99.4101	99.515
+275	99.4293	99.515
+300	99.4411	99.515
+325	99.4491	99.515
+399	98.9904	99.515
+473	98.7387	99.515
+547	98.9616	99.515
+
+Run #5
+50	98.3532	99.356
+75	98.8439	99.4841
+100	99.0381	99.4841
+125	99.1663	99.4841
+150	99.2459	99.4841
+224	98.7759	99.4841
+298	98.7416	99.4841
+372	98.9052	99.4841
+446	98.8137	99.4841
+520	98.9917	99.4841
+
+Ended at Sun Oct  9 18:06:20 2016

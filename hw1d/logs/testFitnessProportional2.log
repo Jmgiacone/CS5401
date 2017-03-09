@@ -1,0 +1,91 @@
+Test Result Log
+=== Config ===
+Started at: Mon Oct 24 03:37:54 2016
+CNF Training Set: datasets/set2/training/
+CNF Test Set: datasets/set2/testing/
+Solution File: solutions/fitnessProportional2.sol
+Training Log File: logs/trainingFitnessProportional2.log
+Test Log File: logs/testFitnessProportional2.log
+Pareto Front Output File: logs/fitnessProportional2Pareto.log
+Loaded individuals from file: false
+Number of Runs: 5
+Number of evals per run: 500
+Self-adaptive mutation: false
+Seed: 1477298274294368
+r-restart r value: false
+Population Size: 50
+Offspring per generation: 25
+Mutation Chance: 0.111111
+Luby Initialization: 0
+Rnd-Freq Initialization: 0
+Var-Decay Initialization: 0
+Cla-Decay Initialization: 0
+Rinc Initialization: 0
+GC-Frac Initialization: 0
+RFirst Initialization: 0
+CCMIN-Mode Initialization: 0
+Phase-Saving Initialization: 0
+Parent Selection: 1
+Parent Selection Tournament Size: 10
+Survival Strategy: 0
+Survival Selection: 2
+Survival Selection Tournament Size: 10
+Terminate on max evals: true
+Terminate on stagnant non-dominated pareto front: false
+=== End Config ===
+Run #1
+100	96.46	-13292	1.86876e+06
+150	96.91	-13292	1.86876e+06
+200	96.91	-13292	1.87719e+06
+250	96.91	-13292	1.87719e+06
+300	96.91	-12972	1.87719e+06
+350	96.91	-12972	1.87719e+06
+400	96.91	-12972	1.87719e+06
+450	96.92	-12972	1.87719e+06
+500	96.93	-12972	1.87719e+06
+
+Run #2
+100	97.27	-12972	1.87719e+06
+150	97.27	-12972	1.94105e+06
+200	97.27	-12972	1.94105e+06
+250	97.27	-12972	1.94105e+06
+300	97.27	-12972	1.94105e+06
+350	97.27	-12972	1.94105e+06
+400	97.27	-12972	1.94105e+06
+450	97.27	-12972	1.94105e+06
+500	97.27	-12972	1.94105e+06
+
+Run #3
+100	98.18	-8384	1.94105e+06
+150	98.18	-8384	1.94105e+06
+200	98.18	-8384	1.94105e+06
+250	98.18	-8384	1.94105e+06
+300	98.18	-8384	1.94105e+06
+350	98.18	-8384	1.94105e+06
+400	98.18	-8384	1.94105e+06
+450	98.18	-8384	1.94105e+06
+500	98.18	-8384	1.94105e+06
+
+Run #4
+100	98.18	-7624	1.94105e+06
+150	98.18	-7620	1.94105e+06
+200	98.18	-7620	1.94105e+06
+250	98.18	-7620	1.94105e+06
+300	98.18	-7620	1.94105e+06
+350	98.18	-7620	1.94105e+06
+400	98.18	-7620	1.94105e+06
+450	98.18	-7620	1.94105e+06
+500	98.18	-7620	1.94105e+06
+
+Run #5
+100	98.18	-7620	1.94105e+06
+150	98.18	-7620	1.94105e+06
+200	98.18	-7620	1.94105e+06
+250	98.18	-7620	1.94105e+06
+300	98.18	-7620	1.94105e+06
+350	98.18	-7620	1.94105e+06
+400	98.18	-7620	1.94105e+06
+450	98.18	-7620	1.94105e+06
+500	98.18	-7620	1.94105e+06
+
+Ended at Mon Oct 24 05:25:04 2016

@@ -1,0 +1,26 @@
+Result Log
+=== Config ===
+Started at: Sun Sep  4 17:41:19 2016
+CNF Directory: datasets/set2/
+Solution File: solutions/config2.sol
+Seed: 1473028879096860
+Number of runs per experiment: 3
+Number of evals per run: 50
+=== End Config ===
+Run 1
+1	90.72
+2	91.6233
+3	95.6933
+4	97.4233
+6	98.0467
+
+Run 2
+1	97.5067
+24	97.92
+
+Run 3
+1	83.57
+2	93.8867
+3	98.05
+
+Ended at Sun Sep  4 17:59:07 2016

@@ -1,0 +1,17 @@
+# Ignore any temporary files produced by the Vi or Vim editors
+.*.sw?
+
+# Emacs temporary files
+*~
+
+# Try to ignore any produced binary files (like a.out)
+*.out
+*.o
+*.or
+HelloEC
+hw1b
+.idea/*
+CMakeLists.txt
+
+# Ignore pycache
+*/*/__pycache__/

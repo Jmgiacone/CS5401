@@ -1,0 +1,91 @@
+Test Result Log
+=== Config ===
+Started at: Mon Oct 24 00:07:27 2016
+CNF Training Set: datasets/set1/training/
+CNF Test Set: datasets/set1/testing/
+Solution File: solutions/fitnessProportional1.sol
+Training Log File: logs/trainingFitnessProportional1.log
+Test Log File: logs/testFitnessProportional1.log
+Pareto Front Output File: logs/fitnessProportional1Pareto.log
+Loaded individuals from file: false
+Number of Runs: 5
+Number of evals per run: 500
+Self-adaptive mutation: false
+Seed: 1477285647040166
+r-restart r value: false
+Population Size: 25
+Offspring per generation: 10
+Mutation Chance: 0.111111
+Luby Initialization: 0
+Rnd-Freq Initialization: 0
+Var-Decay Initialization: 0
+Cla-Decay Initialization: 0
+Rinc Initialization: 0
+GC-Frac Initialization: 0
+RFirst Initialization: 0
+CCMIN-Mode Initialization: 0
+Phase-Saving Initialization: 0
+Parent Selection: 1
+Parent Selection Tournament Size: 10
+Survival Strategy: 0
+Survival Selection: 2
+Survival Selection Tournament Size: 10
+Terminate on max evals: true
+Terminate on stagnant non-dominated pareto front: false
+=== End Config ===
+Run #1
+75	97.25	-14276	3.04728e+07
+125	98.09	-14276	3.06963e+07
+175	98.09	-14276	3.06963e+07
+225	98.09	-14276	3.06963e+07
+275	98.1	-14276	3.21565e+07
+325	98.1	-14272	3.28209e+07
+375	98.1	-14272	3.28209e+07
+425	98.1	-14272	3.71149e+07
+475	98.1	-14272	3.71149e+07
+
+Run #2
+75	98.18	-14272	6.95364e+07
+125	98.18	-14272	6.95364e+07
+175	98.18	-14272	6.95364e+07
+225	98.18	-14272	6.95364e+07
+275	98.18	-14272	6.95364e+07
+325	98.18	-14272	6.95364e+07
+375	98.18	-14272	6.95364e+07
+425	98.18	-14272	6.95364e+07
+475	98.19	-14272	6.95364e+07
+
+Run #3
+75	98.19	-14272	6.95364e+07
+125	98.19	-14272	6.95364e+07
+175	98.19	-14272	6.95364e+07
+225	98.19	-14272	6.95364e+07
+275	98.19	-14272	6.95364e+07
+325	98.19	-14272	6.95364e+07
+375	98.19	-14272	6.95364e+07
+425	98.19	-14272	6.95364e+07
+475	98.19	-14272	6.95364e+07
+
+Run #4
+75	98.19	-14272	6.95364e+07
+125	98.19	-14272	6.95364e+07
+175	98.19	-14272	6.95364e+07
+225	98.19	-14272	6.95364e+07
+275	98.19	-14272	6.95364e+07
+325	98.19	-14272	6.95364e+07
+375	98.19	-14272	6.95364e+07
+425	98.19	-14272	6.95364e+07
+475	98.19	-14272	6.95364e+07
+
+Run #5
+75	98.19	-14272	6.95364e+07
+125	98.19	-14272	6.95364e+07
+175	98.19	-14272	6.95364e+07
+225	98.19	-14272	6.95364e+07
+275	98.19	-14272	6.95364e+07
+325	98.19	-14272	6.95364e+07
+375	98.19	-14272	6.95364e+07
+425	98.19	-14272	6.95364e+07
+475	98.19	-14272	6.95364e+07
+
+Ended at Mon Oct 24 03:35:30 2016

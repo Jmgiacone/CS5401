@@ -1,0 +1,90 @@
+Test Result Log
+=== Config ===
+Started at: Sun Oct  9 15:15:25 2016
+CNF Training Set: datasets/set1/training/
+CNF Test Set: datasets/set1/testing/
+Solution File: solutions/control1.sol
+Training Log File: logs/trainingControl1.log
+Test Log File: logs/testControl1.log
+Loaded individuals from file: false
+Number of Runs: 5
+Number of evals per run: 500
+Self-adaptive mutation: false
+Seed: 1476044125682733
+r-restart r value: false
+Population Size: 50
+Offspring per generation: 25
+Mutation Chance: 0.111111
+Luby Initialization: 0
+Rnd-Freq Initialization: 0
+Var-Decay Initialization: 0
+Cla-Decay Initialization: 0
+Rinc Initialization: 0
+GC-Frac Initialization: 0
+RFirst Initialization: 0
+CCMIN-Mode Initialization: 0
+Phase-Saving Initialization: 0
+Parent Selection: 0
+Parent Selection Tournament Size: 5
+Survival Strategy: 0
+Survival Selection: 1
+Survival Selection Tournament Size: 10
+Terminate on max evals: true
+Terminate on stagnant average fitness: false
+Terminate on stagnant best fitness: true
+=== End Config ===
+Run #1
+100	97.3387
+150	98.3591
+200	98.424
+250	97.8888
+300	97.8693
+350	97.8982
+400	98.0453
+450	98.0559
+500	96.5067
+
+Run #2
+100	97.4221
+150	98.5578
+200	98.5478
+250	98.4653
+300	98.5907
+350	98.6108
+400	98.5879
+450	98.5213
+500	98.5212
+
+Run #3
+100	98.4191
+150	98.3959
+200	98.3839
+250	98.5655
+300	99.0493
+350	98.9142
+400	98.9139
+450	98.99
+500	98.9039
+
+Run #4
+100	96.8056
+150	98.1581
+200	98.1323
+250	98.8317
+300	98.776
+350	99.168
+400	99.1551
+450	99.0992
+500	99.1543
+
+Run #5
+100	97.8301
+150	98.1331
+200	99.1431
+250	99.0608
+300	99.0671
+350	99.0564
+400	99.136
+450	99.088
+500	99.0414
+

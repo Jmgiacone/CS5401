@@ -1,0 +1,91 @@
+Test Result Log
+=== Config ===
+Started at: Sun Oct 23 17:14:02 2016
+CNF Training Set: datasets/set2/training/
+CNF Test Set: datasets/set2/testing/
+Solution File: solutions/control2.sol
+Training Log File: logs/trainingControl2.log
+Test Log File: logs/testControl2.log
+Pareto Front Output File: logs/control2Pareto.log
+Loaded individuals from file: false
+Number of Runs: 5
+Number of evals per run: 500
+Self-adaptive mutation: false
+Seed: 1477260841961139
+r-restart r value: false
+Population Size: 50
+Offspring per generation: 25
+Mutation Chance: 0.111111
+Luby Initialization: 0
+Rnd-Freq Initialization: 0
+Var-Decay Initialization: 0
+Cla-Decay Initialization: 0
+Rinc Initialization: 0
+GC-Frac Initialization: 0
+RFirst Initialization: 0
+CCMIN-Mode Initialization: 0
+Phase-Saving Initialization: 0
+Parent Selection: 2
+Parent Selection Tournament Size: 10
+Survival Strategy: 0
+Survival Selection: 1
+Survival Selection Tournament Size: 10
+Terminate on max evals: true
+Terminate on stagnant non-dominated pareto front: false
+=== End Config ===
+Run #1
+100	97.42	-11256	1.77372e+06
+150	97.67	-11252	1.77372e+06
+200	97.67	-11252	1.77372e+06
+250	97.67	-11252	1.77372e+06
+300	97.67	-11252	1.77372e+06
+350	97.68	-11252	1.78127e+06
+400	97.7	-11252	1.78127e+06
+450	97.7	-11252	1.78127e+06
+500	97.7	-11252	1.78127e+06
+
+Run #2
+100	97.74	-11192	1.78127e+06
+150	97.74	-11192	1.78127e+06
+200	97.74	-11192	1.78127e+06
+250	97.74	-11192	1.78127e+06
+300	97.74	-11192	1.78127e+06
+350	97.74	-11192	1.78127e+06
+400	97.74	-11192	1.78127e+06
+450	97.74	-11192	1.78127e+06
+500	97.74	-11192	1.78127e+06
+
+Run #3
+100	97.74	-11192	1.78127e+06
+150	97.74	-11192	1.78127e+06
+200	97.74	-11192	1.78127e+06
+250	97.74	-11192	1.78127e+06
+300	97.74	-11192	1.78127e+06
+350	97.74	-11192	1.78127e+06
+400	97.74	-11192	1.78127e+06
+450	97.74	-11192	1.78127e+06
+500	97.74	-11192	1.78127e+06
+
+Run #4
+100	97.74	-11192	1.78127e+06
+150	97.74	-11192	1.91373e+06
+200	97.74	-11192	2.011e+06
+250	97.74	-11192	2.011e+06
+300	97.74	-11192	2.011e+06
+350	97.74	-11192	2.011e+06
+400	97.74	-11192	2.011e+06
+450	97.74	-11192	2.011e+06
+500	97.74	-11192	2.011e+06
+
+Run #5
+100	97.79	-8732	2.011e+06
+150	97.79	-8732	2.011e+06
+200	97.79	-8728	2.011e+06
+250	97.79	-8728	2.011e+06
+300	97.79	-8728	2.011e+06
+350	97.79	-8728	2.011e+06
+400	97.79	-8728	2.011e+06
+450	97.79	-8728	2.011e+06
+500	97.79	-8728	2.011e+06
+
+Ended at Sun Oct 23 19:00:32 2016

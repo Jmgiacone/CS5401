@@ -1,0 +1,79 @@
+Test Result Log
+=== Config ===
+Started at: Sun Sep 18 15:54:30 2016
+CNF Training Set: datasets/set1/training/
+CNF Test Set: datasets/set1/testing/
+Solution File: solutions/config1.sol
+Training Log File: logs/trainingConfig1.log
+Test Log File: logs/testConfig1.log
+Number of Runs: 5
+Number of evals per run: 750
+Seed: 1474232070143751
+Population Size: 50
+Offspring per generation: 20
+Mutation Chance: 0.111111
+Initialization: 0
+Parent Selection: 0
+Parent Selection Tournament Size: 5
+Survival Selection: 1
+Survival Selection Tournament Size: 5
+Terminate on max evals: 1
+Terminate on stagnant average fitness: 0
+Terminate on stagnant best fitness: 0
+=== End Config ===
+Run 1
+70	98.4267
+150	98.25
+230	98.59
+310	98.8933
+390	98.9667
+470	98.9567
+550	99.1267
+630	98.5433
+710	98.5967
+
+Run 2
+70	98.1567
+150	98.8633
+230	98.8767
+310	98.8533
+390	98.8867
+470	99.0833
+550	99.12
+630	99.13
+710	99.15
+
+Run 3
+70	98.47
+150	98.8567
+230	98.8333
+310	98.44
+390	98.5167
+470	98.83
+550	98.78
+630	98.9267
+710	98.8633
+
+Run 4
+70	97.8167
+150	98.3767
+230	98.6233
+310	98.97
+390	98.5967
+470	98.5833
+550	98.56
+630	98.6733
+710	98.61
+
+Run 5
+70	98.13
+150	98.1833
+230	98.2767
+310	99.15
+390	99.0633
+470	98.9967
+550	99.0233
+630	98.88
+710	99.0267
+
+Ended at Sun Sep 18 16:40:37 2016

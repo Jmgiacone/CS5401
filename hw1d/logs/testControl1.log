@@ -1,0 +1,91 @@
+Test Result Log
+=== Config ===
+Started at: Sun Oct 23 13:43:35 2016
+CNF Training Set: datasets/set1/training/
+CNF Test Set: datasets/set1/testing/
+Solution File: solutions/control1.sol
+Training Log File: logs/trainingControl1.log
+Test Log File: logs/testControl1.log
+Pareto Front Output File: logs/control1Pareto.log
+Loaded individuals from file: false
+Number of Runs: 5
+Number of evals per run: 500
+Self-adaptive mutation: false
+Seed: 1477213060672636
+r-restart r value: false
+Population Size: 50
+Offspring per generation: 25
+Mutation Chance: 0.111111
+Luby Initialization: 0
+Rnd-Freq Initialization: 0
+Var-Decay Initialization: 0
+Cla-Decay Initialization: 0
+Rinc Initialization: 0
+GC-Frac Initialization: 0
+RFirst Initialization: 0
+CCMIN-Mode Initialization: 0
+Phase-Saving Initialization: 0
+Parent Selection: 2
+Parent Selection Tournament Size: 10
+Survival Strategy: 0
+Survival Selection: 1
+Survival Selection Tournament Size: 10
+Terminate on max evals: true
+Terminate on stagnant non-dominated pareto front: false
+=== End Config ===
+Run #1
+100	98.52	-14068	3.45506e+07
+150	98.52	-14028	3.52983e+07
+200	98.52	-12740	3.52983e+07
+250	98.52	-12740	3.52983e+07
+300	98.52	-12740	3.52983e+07
+350	98.52	-12740	3.62551e+07
+400	98.52	-12740	3.62551e+07
+450	98.52	-12740	3.6539e+07
+500	98.52	-12740	3.6539e+07
+
+Run #2
+100	98.52	-12740	3.90774e+07
+150	98.52	-12740	3.90774e+07
+200	98.52	-12740	3.90774e+07
+250	98.52	-12740	3.90774e+07
+300	98.52	-12740	3.90774e+07
+350	98.52	-12740	3.90774e+07
+400	98.52	-12740	3.90774e+07
+450	98.52	-12740	3.90774e+07
+500	98.52	-12740	3.90774e+07
+
+Run #3
+100	98.52	-12740	3.90774e+07
+150	98.52	-12740	4.13513e+07
+200	98.52	-12740	4.23743e+07
+250	98.52	-12740	4.23743e+07
+300	98.52	-12740	4.23743e+07
+350	98.52	-12740	4.61229e+07
+400	98.52	-12740	4.61229e+07
+450	98.52	-12740	4.61229e+07
+500	98.52	-12740	4.61229e+07
+
+Run #4
+100	98.52	-12740	6.67548e+07
+150	98.52	-12740	6.87842e+07
+200	98.52	-12740	6.87842e+07
+250	98.52	-12740	6.87842e+07
+300	98.52	-12740	6.87842e+07
+350	98.52	-12740	6.87842e+07
+400	98.52	-12740	6.87842e+07
+450	98.52	-12740	6.87842e+07
+500	98.52	-12740	6.87842e+07
+
+Run #5
+100	98.52	-12740	6.87842e+07
+150	98.52	-12740	6.87842e+07
+200	98.52	-12740	6.87842e+07
+250	98.52	-12740	6.87842e+07
+300	98.52	-12740	6.87842e+07
+350	98.52	-12740	6.87842e+07
+400	98.52	-12740	6.87842e+07
+450	98.52	-12740	6.87842e+07
+500	98.52	-12740	6.87842e+07
+
+Ended at Sun Oct 23 17:12:55 2016

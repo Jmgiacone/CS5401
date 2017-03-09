@@ -1,0 +1,90 @@
+Test Result Log
+=== Config ===
+Started at: Sun Oct 23 19:22:45 2016
+CNF Training Set: datasets/set2/training/
+CNF Test Set: datasets/set2/testing/
+Solution File: solutions/3restart2.sol
+Training Log File: logs/training3Restart2.log
+Test Log File: logs/test3Restart2.log
+Pareto Front Output File: logs/3restart2Pareto.log
+Loaded individuals from file: false
+Number of Runs: 5
+Number of evals per run: 500
+Self-adaptive mutation: false
+Seed: 1477268565709449
+r-restart r value: 3
+Population Size: 25
+Offspring per generation: 10
+Mutation Chance: 0.111111
+Luby Initialization: 0
+Rnd-Freq Initialization: 0
+Var-Decay Initialization: 0
+Cla-Decay Initialization: 0
+Rinc Initialization: 0
+GC-Frac Initialization: 0
+RFirst Initialization: 0
+CCMIN-Mode Initialization: 0
+Phase-Saving Initialization: 0
+Parent Selection: 2
+Parent Selection Tournament Size: 10
+Survival Strategy: 0
+Survival Selection: 1
+Survival Selection Tournament Size: 10
+Terminate on max evals: true
+Terminate on stagnant non-dominated pareto front: false
+=== End Config ===
+Run #1
+75	97.91	-6776	1.70205e+06
+125	97.92	-6776	1.70205e+06
+175	97.92	-6776	1.70205e+06
+225	97.95	-6776	1.72695e+06
+275	97.95	-6776	1.72695e+06
+325	97.95	-6776	1.72695e+06
+375	97.95	-6776	1.72695e+06
+425	97.95	-6776	1.72695e+06
+475	97.95	-6776	1.72695e+06
+
+Run #2
+75	97.95	-6776	1.72695e+06
+125	97.95	-6776	1.72695e+06
+175	97.95	-6776	1.80757e+06
+225	97.95	-6776	1.80757e+06
+275	97.95	-6776	1.80757e+06
+325	97.95	-6776	1.80757e+06
+375	97.95	-6776	1.80757e+06
+425	97.95	-6776	1.80757e+06
+475	97.95	-6776	1.80757e+06
+
+Run #3
+75	97.95	-6776	1.80757e+06
+125	97.95	-6776	1.80757e+06
+175	97.95	-6776	1.80757e+06
+225	97.95	-6776	1.80757e+06
+275	97.95	-6776	1.80757e+06
+325	97.95	-6776	1.80757e+06
+375	97.95	-6776	1.80757e+06
+425	97.95	-6776	1.80757e+06
+475	97.95	-6776	1.80757e+06
+
+Run #4
+75	97.99	-6776	1.80757e+06
+125	97.99	-6776	1.80757e+06
+175	97.99	-6680	1.96661e+06
+225	97.99	-6680	1.96661e+06
+275	98.02	-6388	1.96661e+06
+325	98.02	-6388	1.96661e+06
+375	98.02	-6388	1.96661e+06
+425	98.02	-6388	1.96661e+06
+475	98.02	-6388	1.96661e+06
+
+Run #5
+75	98.02	-6388	1.96661e+06
+125	98.02	-6388	1.96661e+06
+175	98.02	-6388	1.96661e+06
+225	98.02	-6388	1.96661e+06
+275	98.02	-6388	1.96661e+06
+325	98.02	-6388	1.96661e+06
+375	98.02	-6388	1.96661e+06
+425	98.02	-6388	1.96661e+06
+475	98.02	-6388	1.96661e+06
+
