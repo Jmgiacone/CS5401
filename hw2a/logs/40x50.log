@@ -1,0 +1,40 @@
+Result Log
+=== Config ===
+runs per experiment = 3
+fitness evals per run = 2000
+seed = 768324267
+log file = logs/40x50.log
+world width = 40
+world height = 50
+pill density = 70
+wall density = 35
+fruit spawning probability = .05
+fruit score = 10
+time multiplier = 2
+=== End Config ===
+Run 1
+1	21
+3	33
+5	44
+96	47
+303	52
+995	63
+1349	74
+1636	81
+
+Run 2
+1	28
+11	33
+37	36
+71	46
+169	48
+282	62
+
+Run 3
+1	40
+8	45
+13	47
+146	49
+300	55
+1905	57
+
